@@ -2,8 +2,9 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div>
-      <h1 className="container">Contact.jsx</h1>
+    <div className="container my-3 border">
+      <h1 className="container border">Contact.jsx</h1>
+      
     </div>
   )
 }
