@@ -23,8 +23,8 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: rgb(0, 0, 0, 0.4);
-	background-blend-mode: color-dodge;
+	background-color: rgb(0, 0, 0, 0.6);
+	background-blend-mode: saturation;
 	background-position: center;
 	background-size: cover;
 	height: 100vh;
